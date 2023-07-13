@@ -1,0 +1,3 @@
+TOKEN="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"
+BASE_URL="https://api.github.com/orgs/LAMBOFIRSTECH"
+ORGANIZATION="LAMBOFIRSTECH"
